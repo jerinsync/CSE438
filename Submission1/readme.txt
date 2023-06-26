@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/13VGpdXlVIJI2U4GVayhMz07G3D6pLKbh5XKkND_Vq0A/edit#slide=id.p
 
 Project title:
-Image captioning CNN-RNN based using Neural Network
+Generating Captions for Images Using Neural Networks
 
 Group Number:
 4
