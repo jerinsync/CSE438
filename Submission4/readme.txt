@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/64982db03f0c41f4e8ebb1af
 
 Unlisted YouTube video:
-
+https://www.youtube.com/watch?v=x64U-mrvAfs&ab_channel=TAMIMALAHASAN
 
 Paper title:
 Automated Image Caption Generation using Deep Learning
