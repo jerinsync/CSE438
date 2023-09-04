@@ -15,4 +15,4 @@ https://web.stanford.edu/~jurafsky/slp3/9.pdf
 https://web.stanford.edu/~jurafsky/slp3/10.pdf
 
 Submitter:
-21101306 Name Sara Jerin Prithila 
+21101306 Sara Jerin Prithila 
