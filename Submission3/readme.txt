@@ -3,6 +3,7 @@ https://youtu.be/zIzxmqbO4is
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF:
+https://github.com/jerinsync/CSE438/blob/main/Submission3/CSE438%20concept%20map.pdf
 
 Native/original format:
 https://drive.google.com/file/d/1KSbvpNTYFddb3wejjrId9PnkCMH0f6D8/view?usp=sharing
