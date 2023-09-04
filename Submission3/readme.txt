@@ -10,9 +10,9 @@ https://app.diagrams.net/?src=about#G1KSbvpNTYFddb3wejjrId9PnkCMH0f6D8
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
 Daniel Jurafsky (Author), James Martin (Author)
-2nd Edition
-May 16, 2008
-Prentice Hall
+3rd edition
+2014
+Pearson
 
 Link to the book:
 https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210
