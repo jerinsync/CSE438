@@ -3,9 +3,9 @@ https://youtu.be/zIzxmqbO4is
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF:
-https://drive.google.com/file/d/1KSbvpNTYFddb3wejjrId9PnkCMH0f6D8/view?usp=sharing
+
 Native/original format:
-https://app.diagrams.net/?src=about#G1KSbvpNTYFddb3wejjrId9PnkCMH0f6D8
+https://drive.google.com/file/d/1KSbvpNTYFddb3wejjrId9PnkCMH0f6D8/view?usp=sharing
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
