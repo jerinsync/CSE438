@@ -15,7 +15,7 @@ Daniel Jurafsky (Author), James Martin (Author)
 Pearson
 
 Link to the book:
-https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
 https://web.stanford.edu/~jurafsky/slp3/9.pdf
